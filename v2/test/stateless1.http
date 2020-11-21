@@ -1,0 +1,1 @@
+GET http://localhost:7071/api/Stateless1/triggers/manual/invoke?api-version=2020-05-01-preview&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=YZJsuiYa-s3GnNWJEVD9ExXAyaDdjj6WUvwLO7uTXYY
